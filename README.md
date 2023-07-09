@@ -1,4 +1,4 @@
-# FishAPP_UI
+# FishSnap
 This repository contains the UI design for a fish identification mobile application. The app aims to assist users in identifying various species of fish using photographs taken by the users themselves.the user interface of a mobile application dedicated to fish enthusiasts and those interested in exploring the world of aquatic life.The Fish App UI design focuses on creating an engaging and visually captivating interface that seamlessly combines functionality with a delightful user experience.
 
 # Design and Prototype Tools
