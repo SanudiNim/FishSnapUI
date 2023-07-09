@@ -7,10 +7,9 @@ The UI design and prototyping for this app were created using popular design sof
 
 # Screens
 
-## Welcome Screen : 
 The app starts with a welcoming screen that displays the app logo and a loading animation. This screen provides a visually appealing introduction to the app while data is being loaded in the background.
    
-![final](https://github.com/ImeshaDilshani/FishAPP_UI/assets/93858302/1c5588b8-af3e-4e6f-9c9c-bce967d71827)
+![final](https://github.com/ImeshaDilshani/FishSnapUI/assets/93858302/8d5c1e51-0ef1-4b9e-94bf-54c0f4020d75)
 
 
 ## Welcome Screen : 
